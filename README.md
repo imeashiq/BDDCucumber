@@ -1,2 +1,4 @@
 # BDDCucumber
-Java based Selenium BDD Cucumber Framework
+Selenium with BDD Cucumber Framework
+Maven Build
+Extent Report
